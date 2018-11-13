@@ -9,5 +9,4 @@ view([100 100])
 xlabel('x','FontSize',35 )    
 ylabel('y','FontSize',35 )  
 zlabel('z','FontSize',35 )
-
 end
